@@ -1,6 +1,8 @@
 # Setup for Generating Squish Test Scripts with AI Assistants
 
-A sample setup for generating [Squish](https://www.qt.io/quality-assurance/squish) ([documentation](https://doc.qt.io/squish/)) test scripts and test suites in Python with AI Assistants. See [the blog post](https://www.qt.io/blog/a-practical-guide-to-generating-squish-test-scripts-with-ai-assistants) for more. 
+A sample setup for generating [Squish](https://www.qt.io/quality-assurance/squish) ([documentation](https://doc.qt.io/squish/)) test scripts and test suites in Python with AI Assistants. See [the blog post](https://www.qt.io/blog/a-practical-guide-to-generating-squish-test-scripts-with-ai-assistants) for more or the video below:
+
+[![Generating test scripts for Squish](https://img.youtube.com/vi/z_UfLHsk4t8/0.jpg)](https://www.youtube.com/watch?v=z_UfLHsk4t8)
 
 Squish is a professional testing tool for automated GUI testing of desktop, embedded, and mobile applications.
 
